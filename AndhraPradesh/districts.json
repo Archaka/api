@@ -1,0 +1,80 @@
+[
+	{
+		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+		"name": "శ్రీకాకుళం",
+		"value": "1",
+		"isDefaultValue": false
+	},
+	{
+		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+		"name": "విజయనగరం",
+		"value": "2",
+		"isDefaultValue": false
+	},
+	{
+		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+		"name": "విశాఖపట్నం",
+		"value": "3",
+		"isDefaultValue": false
+	},
+	{
+		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+		"name": "తూర్పు గోదావరి",
+		"value": "4",
+		"isDefaultValue": false
+	},
+	{
+		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+		"name": "పశ్చిమ గోదావరి",
+		"value": "5",
+		"isDefaultValue": false
+	},
+	{
+		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+		"name": "కృష్ణ",
+		"value": "6",
+		"isDefaultValue": false
+	},
+	{
+		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+		"name": "గుంటూరు",
+		"value": "7",
+		"isDefaultValue": false
+	},
+	{
+		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+		"name": "ప్రకాశం",
+		"value": "8",
+		"isDefaultValue": false
+	},
+	{
+		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+		"name": "నెల్లూరు",
+		"value": "9",
+		"isDefaultValue": false
+	},
+	{
+		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+		"name": "చిత్తూరు",
+		"value": "10",
+		"isDefaultValue": false
+	},
+	{
+		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+		"name": "కడప",
+		"value": "11",
+		"isDefaultValue": false
+	},
+	{
+		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+		"name": "అనంతపురం",
+		"value": "12",
+		"isDefaultValue": false
+	},
+	{
+		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+		"name": "కర్నూలు",
+		"value": "13",
+		"isDefaultValue": false
+	}
+]
