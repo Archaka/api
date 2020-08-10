@@ -1,5 +1,4 @@
-{
-    "d": [
+ [
         {
             "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
             "name": "అద్దంకి",
@@ -337,4 +336,3 @@
             "isDefaultValue": false
         }
     ]
-}
