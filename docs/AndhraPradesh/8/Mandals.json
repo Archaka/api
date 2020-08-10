@@ -1,0 +1,340 @@
+{
+    "d": [
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "అద్దంకి",
+            "value": "16",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "అర్థవీడు",
+            "value": "08",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "ఇంకొల్లు",
+            "value": "25",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "ఉలవపాడు",
+            "value": "55",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "ఒంగోలు",
+            "value": "44",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "కొండపి",
+            "value": "42",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "కందుకూరు",
+            "value": "50",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "కంభం",
+            "value": "34",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "కొత్తపట్టణం",
+            "value": "47",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "కొనకనమిట్ట",
+            "value": "11",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "కనిగిరి",
+            "value": "31",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "కొమరోలు",
+            "value": "37",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "కారంచేడు",
+            "value": "22",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "కొరిశపాడు",
+            "value": "27",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "కురిచేడు",
+            "value": "04",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "గిద్దలూరు",
+            "value": "36",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "గుడ్లూరు",
+            "value": "54",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "చంద్రశేఖరపురం",
+            "value": "38",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "చినగంజాం",
+            "value": "46",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "చీమకుర్తి",
+            "value": "29",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "చీరాల",
+            "value": "23",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "జనకవరం పంగులూరు",
+            "value": "26",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "జరుగుమల్లి",
+            "value": "49",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "టంగుటూరు",
+            "value": "48",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "త్రిపురాంతకం",
+            "value": "03",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "తర్లుపాడు",
+            "value": "10",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "తాళ్లూరు",
+            "value": "15",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "దొనకొండ",
+            "value": "05",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "దోర్నాల",
+            "value": "07",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "దరిశి",
+            "value": "13",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "నాగలుప్పలపాడు",
+            "value": "45",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "పెదచెర్లోపల్లి",
+            "value": "40",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "పెద్దారవీడు",
+            "value": "06",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "పోదిలి",
+            "value": "12",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "పొన్నలూరు",
+            "value": "41",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "పామూరు",
+            "value": "52",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "పర్చూరు",
+            "value": "21",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "పుల్లలచెరువు",
+            "value": "02",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "బల్లికురవ",
+            "value": "17",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "బెస్తవారిపేట",
+            "value": "33",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "మద్దిపాడు",
+            "value": "28",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "మార్కాపురం",
+            "value": "09",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "మార్టూరు",
+            "value": "20",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "మర్రిపూడి",
+            "value": "30",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "ముండ్లమూరు",
+            "value": "14",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "యద్దనపూడి",
+            "value": "19",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "యర్రగొండపాలెం",
+            "value": "01",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "రాచర్ల",
+            "value": "35",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "లింగసముద్రం",
+            "value": "53",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "వేటపాలెం",
+            "value": "24",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "వెలిగండ్ల",
+            "value": "39",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "వలేటివారిపాలెం",
+            "value": "51",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "శింగరాయకొండ",
+            "value": "56",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "సంతనూతలపాడు",
+            "value": "43",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "సంతమాగులూరు",
+            "value": "18",
+            "isDefaultValue": false
+        },
+        {
+            "__type": "AjaxControlToolkit.CascadingDropDownNameValue",
+            "name": "హనుమంతునిపాడు",
+            "value": "32",
+            "isDefaultValue": false
+        }
+    ]
+}
