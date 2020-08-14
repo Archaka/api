@@ -11,14 +11,14 @@
 		"name": "ఆదోని",
 		"value": "23",
 		"isDefaultValue": false,
-		"areaIncharge": "yet-to-assign-individual"
+		"areaIncharge": "Kaditota Ravi"
 	},
 	{
 		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
 		"name": "ఆలూరు",
 		"value": "25",
 		"isDefaultValue": false,
-		"areaIncharge": "yet-to-assign-individual"
+		"areaIncharge": "Naveen"
 	},
 	{
 		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
@@ -32,7 +32,7 @@
 		"name": "ఆస్పరి",
 		"value": "26",
 		"isDefaultValue": false,
-		"areaIncharge": "yet-to-assign-individual"
+		"areaIncharge": "Sidda or Billekal Govindu"
 	},
 	{
 		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
@@ -74,14 +74,14 @@
 		"name": "కొత్తపల్లి ",
 		"value": "10",
 		"isDefaultValue": false,
-		"areaIncharge": "yet-to-assign-individual"
+		"areaIncharge": "JLB Shastry"
 	},
 	{
 		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
 		"name": "కౌతాళం",
 		"value": "01",
 		"isDefaultValue": false,
-		"areaIncharge": "yet-to-assign-individual"
+		"areaIncharge": "Budumuldoddi Swamy"
 	},
 	{
 		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
@@ -102,7 +102,7 @@
 		"name": "క్రిష్ణగిరి",
 		"value": "28",
 		"isDefaultValue": false,
-		"areaIncharge": "yet-to-assign-individual"
+		"areaIncharge": "Basavaraj"
 	},
 	{
 		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
@@ -116,7 +116,7 @@
 		"name": "కల్లూరు",
 		"value": "18",
 		"isDefaultValue": false,
-		"areaIncharge": "yet-to-assign-individual"
+		"areaIncharge": "Agraharam Venkateswarulu"
 	},
 	{
 		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
@@ -151,7 +151,7 @@
 		"name": "గోస్పాడు",
 		"value": "42",
 		"isDefaultValue": false,
-		"areaIncharge": "yet-to-assign-individual"
+		"areaIncharge": "K Subbaiah Sharma"
 	},
 	{
 		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
@@ -207,14 +207,14 @@
 		"name": "దేవనకొండ ",
 		"value": "27",
 		"isDefaultValue": false,
-		"areaIncharge": "yet-to-assign-individual"
+		"areaIncharge": "Karivemula Raghunath"
 	},
 	{
 		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
 		"name": "నందికోట్కూరు",
 		"value": "08",
 		"isDefaultValue": false,
-		"areaIncharge": "yet-to-assign-individual"
+		"areaIncharge": "Ramachandraiah"
 	},
 	{
 		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
@@ -228,7 +228,7 @@
 		"name": "నందవరం",
 		"value": "04",
 		"isDefaultValue": false,
-		"areaIncharge": "yet-to-assign-individual"
+		"areaIncharge": "Gurujala Hampaiah Swamy"
 	},
 	{
 		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
@@ -249,14 +249,14 @@
 		"name": "పత్తికొండ ",
 		"value": "51",
 		"isDefaultValue": false,
-		"areaIncharge": "yet-to-assign-individual"
+		"areaIncharge": "Jutur Narayana Swamy"
 	},
 	{
 		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
 		"name": "పెద్ద కడుబూరు",
 		"value": "22",
 		"isDefaultValue": false,
-		"areaIncharge": "yet-to-assign-individual"
+		"areaIncharge": "Muravani Murali Mohan"
 	},
 	{
 		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
@@ -277,7 +277,7 @@
 		"name": "బండి ఆత్మకూరు",
 		"value": "33",
 		"isDefaultValue": false,
-		"areaIncharge": "yet-to-assign-individual"
+		"areaIncharge": "Sreekanth or Rambabu"
 	},
 	{
 		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
@@ -291,42 +291,42 @@
 		"name": "బనగానపల్లె",
 		"value": "44",
 		"isDefaultValue": false,
-		"areaIncharge": "yet-to-assign-individual"
+		"areaIncharge": "Mallikarjuna Sharma"
 	},
 	{
 		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
 		"name": "మంత్రాలయం",
 		"value": "03",
 		"isDefaultValue": false,
-		"areaIncharge": "yet-to-assign-individual"
+		"areaIncharge": "Suryanarayanacharyulu"
 	},
 	{
 		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
 		"name": "మిడ్తూరు",
 		"value": "16",
 		"isDefaultValue": false,
-		"areaIncharge": "yet-to-assign-individual"
+		"areaIncharge": "Pujari Vikram"
 	},
 	{
 		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
 		"name": "మద్దికెర",
 		"value": "52",
 		"isDefaultValue": false,
-		"areaIncharge": "yet-to-assign-individual"
+		"areaIncharge": "Narayana Swamy"
 	},
 	{
 		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
 		"name": "మహానంది",
 		"value": "35",
 		"isDefaultValue": false,
-		"areaIncharge": "yet-to-assign-individual"
+		"areaIncharge": "Chandu Swamy"
 	},
 	{
 		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
 		"name": "రుద్రవరం",
 		"value": "37",
 		"isDefaultValue": false,
-		"areaIncharge": "yet-to-assign-individual"
+		"areaIncharge": "Gopi Sharma"
 	},
 	{
 		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
@@ -347,7 +347,7 @@
 		"name": "శిరివెళ్ళ",
 		"value": "36",
 		"isDefaultValue": false,
-		"areaIncharge": "yet-to-assign-individual"
+		"areaIncharge": "Srinivasa Charyulu"
 	},
 	{
 		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
@@ -368,20 +368,20 @@
 		"name": "సంజామల",
 		"value": "45",
 		"isDefaultValue": false,
-		"areaIncharge": "yet-to-assign-individual"
+		"areaIncharge": "Vasudev Kumar"
 	},
 	{
 		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
 		"name": "హలహర్వి",
 		"value": "54",
 		"isDefaultValue": false,
-		"areaIncharge": "yet-to-assign-individual"
+		"areaIncharge": "Asuri Rakesh Kumar"
 	},
 	{
 		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
 		"name": "హోళగుంద",
 		"value": "24",
 		"isDefaultValue": false,
-		"areaIncharge": "yet-to-assign-individual"
+		"areaIncharge": "Sri Hari"
 	}
 ]
