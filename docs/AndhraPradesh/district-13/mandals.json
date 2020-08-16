@@ -25,7 +25,7 @@
 		"name": "ఆళ్లగడ్డ",
 		"value": "38",
 		"isDefaultValue": false,
-		"areaIncharge": "yet-to-assign-individual"
+		"areaIncharge": "Kakanuru Naga Mahesh Kumar Sharma"
 	},
 	{
 		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
@@ -60,7 +60,7 @@
 		"name": "ఔకు",
 		"value": "47",
 		"isDefaultValue": false,
-		"areaIncharge": "yet-to-assign-individual"
+		"areaIncharge": "Chandra Sekhar"
 	},
 	{
 		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
@@ -382,6 +382,6 @@
 		"name": "హోళగుంద",
 		"value": "24",
 		"isDefaultValue": false,
-		"areaIncharge": "Sri Hari"
+		"areaIncharge": "Sri Hari swamy or Hari Krishna"
 	}
 ]
