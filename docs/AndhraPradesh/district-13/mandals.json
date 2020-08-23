@@ -88,14 +88,14 @@
 		"name": "కర్నూలు అర్బన్",
 		"value": "55",
 		"isDefaultValue": false,
-		"areaIncharge": "yet-to-assign-individual"
+		"areaIncharge": "Shamsunder Sharma"
 	},
 	{
 		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
 		"name": "కర్నూలు రురల్",
 		"value": "07",
 		"isDefaultValue": false,
-		"areaIncharge": "yet-to-assign-individual"
+		"areaIncharge": "Shamsunder Sharma"
 	},
 	{
 		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
