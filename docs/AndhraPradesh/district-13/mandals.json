@@ -11,7 +11,7 @@
 		"name": "ఆదోని",
 		"value": "23",
 		"isDefaultValue": false,
-		"areaIncharge": "Kaditota Ravi"
+		"areaIncharge": "Kaditota Ravi or Yatirajacharyulu"
 	},
 	{
 		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
@@ -32,7 +32,7 @@
 		"name": "ఆస్పరి",
 		"value": "26",
 		"isDefaultValue": false,
-		"areaIncharge": "Sidda or Billekal Govindu"
+		"areaIncharge": "V Gopal Swamy or Sidda or Billekal Govindu"
 	},
 	{
 		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
@@ -46,7 +46,7 @@
 		"name": "ఎమ్మిగనూరు",
 		"value": "21",
 		"isDefaultValue": false,
-		"areaIncharge": "Narasimha Murthy"
+		"areaIncharge": "V Narasimha Murthy "
 	},
 	{
 		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
@@ -130,7 +130,7 @@
 		"name": "కోసిగి",
 		"value": "02",
 		"isDefaultValue": false,
-		"areaIncharge": "yet-to-assign-individual"
+		"areaIncharge": "Sri Hari Achary"
 	},
 	{
 		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
@@ -144,7 +144,7 @@
 		"name": "గోనెగండ్ల",
 		"value": "20",
 		"isDefaultValue": false,
-		"areaIncharge": "yet-to-assign-individual"
+		"areaIncharge": "Ramanjineyulu"
 	},
 	{
 		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
@@ -165,14 +165,14 @@
 		"name": "చాగలమర్రి",
 		"value": "39",
 		"isDefaultValue": false,
-		"areaIncharge": "yet-to-assign-individual"
+		"areaIncharge": "Keerthi Lakshman Swamy"
 	},
 	{
 		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
 		"name": "చిప్పగిరి",
 		"value": "53",
 		"isDefaultValue": false,
-		"areaIncharge": "yet-to-assign-individual"
+		"areaIncharge": "Venkataswamy"
 	},
 	{
 		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
@@ -256,7 +256,7 @@
 		"name": "పెద్ద కడుబూరు",
 		"value": "22",
 		"isDefaultValue": false,
-		"areaIncharge": "Muravani Murali Mohan"
+		"areaIncharge": "Muravani Murali Mohan or Sri Hari Achary"
 	},
 	{
 		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
@@ -284,14 +284,14 @@
 		"name": "బేతంచెర్ల",
 		"value": "30",
 		"isDefaultValue": false,
-		"areaIncharge": "yet-to-assign-individual"
+		"areaIncharge": "Kishore Kumar"
 	},
 	{
 		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
 		"name": "బనగానపల్లె",
 		"value": "44",
 		"isDefaultValue": false,
-		"areaIncharge": "Mallikarjuna Sharma"
+		"areaIncharge": "Kishore Kumar or Mallikarjuna Sharma"
 	},
 	{
 		"__type": "AjaxControlToolkit.CascadingDropDownNameValue",
